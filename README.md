@@ -81,6 +81,23 @@ bundle exec jekyll serve
 
 Open `http://127.0.0.1:4000` to preview.
 
+### Generating `Gemfile.lock`
+
+Run `bundle install` in this repository to produce a `Gemfile.lock` tailored to your environment. Example:
+
+```bash
+gem install bundler
+bundle install
+```
+
+If you want to explicitly lock platforms (useful in CI), run:
+
+```bash
+bundle lock --add-platform ruby
+```
+
+This will create `Gemfile.lock`. Commit that file if you want reproducible installs across machines.
+
 ## Deploying to GitHub Pages
 
 - Push your changes to the branch configured in `Settings → Pages` (commonly `main` or `gh-pages`).

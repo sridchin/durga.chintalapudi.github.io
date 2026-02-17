@@ -1,6 +1,18 @@
+:root{--accent:#0b74de;--muted:#666;--max-width:900px}
 body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0; padding: 0; color: #222; background: #fff; }
-header { background: #0b74de; color: white; padding: 1rem; }
-header a { color: white; text-decoration: none; }
-main { padding: 1.25rem; max-width: 900px; margin: 0 auto; }
-footer { text-align: center; padding: 1rem; color: #666; font-size: .9rem; }
+header { background: var(--accent); color: white; }
+.header-inner { display:flex; align-items:center; gap:1rem; justify-content:space-between; padding: 0.75rem 1rem; }
+.wrap { max-width: var(--max-width); margin: 0 auto; width: 100%; }
+.site-title { margin: 0; font-size: 1.25rem; }
+.site-title a { color: white; text-decoration: none; }
+.site-nav { display:flex; gap: 1rem; }
+.site-nav a { color: rgba(255,255,255,0.95); text-decoration: none; padding: 0.25rem; }
+.site-nav a:hover { text-decoration: underline; }
+.site-social { display:flex; gap:0.5rem; align-items:center; }
+.social-link { color: white; display:inline-flex; align-items:center; justify-content:center; padding:0.15rem; }
+.social-link svg { display:block; opacity:0.95; }
+main { padding: 1.5rem; max-width: var(--max-width); margin: 0 auto; }
+footer { text-align: center; padding: 1rem; color: var(--muted); font-size: .9rem; }
+.footer-inner { display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:0 1rem; }
+.footer-social { display:flex; gap:1rem; }
 h1, h2, h3 { margin: 0 0 0.5rem 0; }
