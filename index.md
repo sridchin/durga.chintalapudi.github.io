@@ -8,7 +8,7 @@ title: Home
 I'm a Software Engineer at Visa with 7+ years of experience building and operating large scale systems, with a Master’s degree in Engineering focused on Artificial Intelligence. I work at the intersection of reliability engineering, observability, and applied AI.
 
 - 🔭 Currently working on: Observability Optimization Platform and Agentic AI systems
-- ✉️ Contact: [sridurga21296@gmail.com](mailto:sridurga21296@gmail.com)
+- ✉️ Contact: [chintalapudi.sridurga@gmail.com](mailto:chintalapudi.sridurga@gmail.com)
 - 📍 Location: San Francisco Bay Area
 
 ## Quick Links

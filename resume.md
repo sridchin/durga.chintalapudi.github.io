@@ -9,7 +9,7 @@ Software Engineer | Applied AI | Duke’23 | Platform Engineering
 San Francisco Bay Area
 
 ## Contact
-- **Email:** sridurga21296@gmail.com
+- **Email:** chintalapudi.sridurga@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/durga-chintalapudi](https://www.linkedin.com/in/durga-chintalapudi)
 - **Personal Site:** [sridchin.github.io/about-me/](https://sridchin.github.io/about-me/)
 
