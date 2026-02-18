@@ -11,21 +11,6 @@ permalink: /about/
 - **LinkedIn:** [www.linkedin.com/in/durga-chintalapudi](https://www.linkedin.com/in/durga-chintalapudi)
 - **Personal Site:** [sridchin.github.io/about-me/](https://sridchin.github.io/about-me/)
 
-## Top Skills
-- LangGraph
-- Agentic AI Development
-- Marketing
-
-## Languages
-- English (Professional Working)
-
-## Certifications
-- Agentic AI with LangChain and LangGraph
-
-## Honors-Awards
-- National Level Finalist in India, ACM International Collegiate Programming Contest, 2016.
-- Gold Medal, Coding Competition, Indian Society for Technical Education Hyderabad, 2014
-- Academic Excellence Award
 
 ## Summary
 I’m a Software Engineer at Visa with 7+ years of experience building and operating large scale systems, with a Master’s degree in Engineering focused on Artificial Intelligence. I work at the intersection of reliability engineering, observability, and applied AI, focusing on making complex systems resilient, measurable, and easier to operate at scale.
